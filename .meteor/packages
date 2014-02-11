@@ -11,7 +11,7 @@ underscore
 handlebar-helpers
 iron-router
 accounts-password
-accounts-ui
 iron-router-progress
 semantic-ui
 collection2
+accounts-ui
